@@ -1,4 +1,4 @@
-# 📊 Modified WordCount and Word Pair Analysis — CS657 Assignment 1
+# 📊 Modified WordCount and Word Pair Analysis
 
 This PySpark-based project analyzes the **State of the Union (SOTU)** speech transcripts from 1790 to 2021 using distributed processing techniques. It extends the traditional WordCount program with advanced statistical, linguistic, and co-occurrence-based computations, fully optimized for scalability and large dataset performance.
 
